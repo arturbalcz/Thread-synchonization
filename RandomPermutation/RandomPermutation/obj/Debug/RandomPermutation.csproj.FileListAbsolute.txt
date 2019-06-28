@@ -1,0 +1,7 @@
+C:\Users\user\Documents\_PuT\VScpp\RandomPermutation\RandomPermutation\obj\Debug\RandomPermutation.csprojAssemblyReference.cache
+C:\Users\user\Documents\_PuT\VScpp\RandomPermutation\RandomPermutation\obj\Debug\RandomPermutation.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\_PuT\VScpp\RandomPermutation\RandomPermutation\bin\Debug\RandomPermutation.exe.config
+C:\Users\user\Documents\_PuT\VScpp\RandomPermutation\RandomPermutation\bin\Debug\RandomPermutation.exe
+C:\Users\user\Documents\_PuT\VScpp\RandomPermutation\RandomPermutation\bin\Debug\RandomPermutation.pdb
+C:\Users\user\Documents\_PuT\VScpp\RandomPermutation\RandomPermutation\obj\Debug\RandomPermutation.exe
+C:\Users\user\Documents\_PuT\VScpp\RandomPermutation\RandomPermutation\obj\Debug\RandomPermutation.pdb
